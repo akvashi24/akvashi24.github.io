@@ -1,6 +1,7 @@
 import Heading from "../components/typography/Heading";
 
 const Notion = () => {
+  console.log("we outchea");
   return (
     <section>
       <div className="mb-16">
