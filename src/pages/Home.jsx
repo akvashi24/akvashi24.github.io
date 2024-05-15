@@ -7,7 +7,7 @@ function Home() {
         <Heading>Adin Vashi</Heading>
         <div className="">
           <span className="block">Software Engineer</span>
-          <span className="block">Writes occassionally</span>
+          <span className="block">Writes occasionally</span>
           <span className="block">Lives in NYC</span>
         </div>
       </header>
